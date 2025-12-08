@@ -1,0 +1,15 @@
+/workspaces/CSProjectGroup12/bin/Debug/net8.0/CSProjectGroup12
+/workspaces/CSProjectGroup12/bin/Debug/net8.0/CSProjectGroup12.deps.json
+/workspaces/CSProjectGroup12/bin/Debug/net8.0/CSProjectGroup12.runtimeconfig.json
+/workspaces/CSProjectGroup12/bin/Debug/net8.0/CSProjectGroup12.dll
+/workspaces/CSProjectGroup12/bin/Debug/net8.0/CSProjectGroup12.pdb
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.AssemblyInfoInputs.cache
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.AssemblyInfo.cs
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.csproj.CoreCompileInputs.cache
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.sourcelink.json
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.dll
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/refint/CSProjectGroup12.dll
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.pdb
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/CSProjectGroup12.genruntimeconfig.cache
+/workspaces/CSProjectGroup12/obj/Debug/net8.0/ref/CSProjectGroup12.dll
